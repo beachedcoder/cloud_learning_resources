@@ -15,6 +15,7 @@ Useful items I've found for various questions and topics related to studying for
 
 ## GCP
 - [Console](https://console.cloud.google.com/)
+- [Google Books SRE](https://landing.google.com/sre/books/)
 
 
 ## ROI Training
