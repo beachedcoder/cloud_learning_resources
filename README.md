@@ -2,16 +2,20 @@
 Useful items I've found for various questions and topics related to studying for exams
 
 ## Azure
+- [Azure Portal](https://portal.azure.com/#allservices)
 - [Architecture Guidance and Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [Learning Guide for Administrator Associate AZ-104](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)
 - [Learning Guide for Developer Associate AZ-204](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
 
 
 ## AWS
+- [AWS Console](https://aws.amazon.com/)
 - [Skill Builder Individual Plan](https://aws.amazon.com/training/digital/?cta=tctopbanner)
 - [Skill Builder Content](https://explore.skillbuilder.aws/learn)
 
 ## GCP
+- [Console](https://console.cloud.google.com/)
+
 
 ## ROI Training
 - [YouTube Channel](https://www.youtube.com/channel/UC8-g09s_opdDruUjYdiuCxg)
