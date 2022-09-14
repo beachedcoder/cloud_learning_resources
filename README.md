@@ -33,6 +33,7 @@ Useful items I've found for various questions and topics related to studying for
 - [30 minutes to understand Git, watch all four videos](https://git-scm.com/videos)
 - [Credential Helper](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
 - [Personal Access Token in Credential Store](https://git-scm.com/docs/git-credential-store)
+- [YouTube Git multi-part tutorial](https://www.youtube.com/playlist?list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL)
 
 
 ## Docker
