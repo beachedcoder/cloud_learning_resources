@@ -1,12 +1,6 @@
 # Links and resouces for practice and preparation
 Useful items I've found for various questions and topics related to studying for exams
 
-## Git
-- [Official Documentation](https://git-scm.com/docs)
-- [30 minutes to understand Git, watch all four videos](https://git-scm.com/videos)
-- [Credential Helper](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
-- [Personal Access Token in Credential Store](https://git-scm.com/docs/git-credential-store)
-
 ## Azure
 - [Architecture Guidance and Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [Learning Guide for Administrator Associate AZ-104](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)
@@ -28,6 +22,12 @@ Useful items I've found for various questions and topics related to studying for
 - [Open Data Specification for REST architecture endpoints](https://www.odata.org/)
 - [Richardson Maturity Model for RESTful endpoints](https://restfulapi.net/richardson-maturity-model/)
 - [Error Specification for RESTful endpoints by Internet Engineering Task Force (IETF)](https://www.rfc-editor.org/rfc/rfc7807.html)
+
+## Git
+- [Official Documentation](https://git-scm.com/docs)
+- [30 minutes to understand Git, watch all four videos](https://git-scm.com/videos)
+- [Credential Helper](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
+- [Personal Access Token in Credential Store](https://git-scm.com/docs/git-credential-store)
 
 
 ## Docker
