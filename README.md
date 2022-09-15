@@ -47,3 +47,4 @@ Useful items I've found for various questions and topics related to studying for
 - [Manage K8s with Terraform](https://learn.hashicorp.com/collections/terraform/kubernetes)
 - [Azure with Terraform](https://learn.hashicorp.com/collections/terraform/azure)
 - [Example app with Terraform (game)](https://github.com/drehnstrom/terraform-space-invaders)
+- [Hands On Demos for Azure, AWS and GCP](https://github.com/roitraining/hands-on-terraform)
