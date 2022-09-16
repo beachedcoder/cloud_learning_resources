@@ -3,6 +3,7 @@ Useful items I've found for various questions and topics related to studying for
 
 ## Azure
 - [Azure Portal](https://portal.azure.com/#allservices)
+- [Azure Self Paced Learning Paths](https://docs.microsoft.com/en-us/training/)
 - [Architecture Guidance and Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [Learning Guide for Administrator Associate AZ-104](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)
 - [Learning Guide for Developer Associate AZ-204](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
