@@ -43,6 +43,13 @@ Useful items I've found for various questions and topics related to studying for
 - [Best practices for using Docker Hub for CI/CD](https://docs.docker.com/ci-cd/best-practices/)
 - [Github Actions with Docker](https://docs.docker.com/ci-cd/github-actions/)
 
+## K8s (Kubernetes)
+- [Docs](https://kubernetes.io/docs/home/)
+- [miniKube for dev/test](https://minikube.sigs.k8s.io/docs/start/)
+- [Azure intro to k8s](https://learn.microsoft.com/en-us/training/paths/intro-to-kubernetes-on-azure/)
+- [Kubernetes learning videos by Azure](https://azure.microsoft.com/en-us/resources/kubernetes-learning-and-training/#overview)
+- [microservice architecture with k8s](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices)
+
 ## Terraform
 - [Getting Started with Terraform](https://learn.hashicorp.com/terraform)
 - [Manage K8s with Terraform](https://learn.hashicorp.com/collections/terraform/kubernetes)
