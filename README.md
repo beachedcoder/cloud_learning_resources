@@ -14,8 +14,7 @@ Useful items I've found for various questions and topics related to studying for
 - [Skill Builder Individual Plan](https://aws.amazon.com/training/digital/?cta=tctopbanner)
 - [Skill Builder Content](https://explore.skillbuilder.aws/learn)
 - [Architecture Center](https://aws.amazon.com/architecture/reference-architecture-diagrams/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all)
-- [Guides and White papers](https://aws.amazon.com/whitepapers/?sc_ichannel=ha&sc_icampaign=acq_awsblogsb&sc_icontent=architecture-resources&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
-- [Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+- [Learn Architecture pillars](https://aws.amazon.com/architecture/well-architected/?sc_ichannel=ha&sc_icampaign=acq_awsblogsb&sc_icontent=architecture-resources&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
 
 ## GCP
 - [Console](https://console.cloud.google.com/)
