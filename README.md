@@ -18,6 +18,8 @@ Useful items I've found for various questions and topics related to studying for
 
 ## GCP
 - [Console](https://console.cloud.google.com/)
+- [Shell Terminal](https://shell.cloud.google.com/)
+- [Google Cloud Certifications](https://cloud.google.com/certification#why-get-google-cloud-certified)
 - [Architecture Center](https://cloud.google.com/architecture)
 - [Google Books SRE](https://landing.google.com/sre/books/)
 
